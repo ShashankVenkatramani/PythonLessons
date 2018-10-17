@@ -1,6 +1,6 @@
 # Python Basics Lesson 1
 
-###
+## Lesson Goal
 
 The purpose of this lesson is to build an understanding as to how python works under the hood. While a thorough understanding of python is not necesary to get a running program, having an intuitive map of python internally helps understand the usage of libraries, environments, and many other aspects leveraged within python.
 
@@ -26,4 +26,14 @@ The rules and code that you create when using any programming language is called
 
 ### Text Editor
 
-In order to write code you will need a text editor.
+One way to "write commands" or program is to create a file with the instructions in it. You then give this file of instructions to your computer to run. In order to create, and save these files you need a text editor. For Python and many other programming languages a normal text editor can be used, such as notepad, and textedit, however you can download text editors online that come with extra functionality. Once you get your text editor you can now write your "instructions" as syntax depending on which language you are writing in, in this case python. In order to denote which language you are writing your program in, you need to add a file extension when saving your program. In python's case you add a .py at the end of each file when you save as, so that the computer recognizes it as a python file.
+
+### Python Compiling
+
+After getting your text file with all your syntax saved on it, you now need to convert it from English into a language that computers can understand. In order to convert it into machine code (the language computers use) you use the Python Interpreter.
+<details><summary>How does python interpreter work? (Extra details, optional to know)</summary>The python interpreter takes your program file and compiles (think of converting) it into bytecode by seperating all of your syntax into their individual instructions and saving them as a list of tokens. These tokens are stored within a bytecode file (.pyc), and if any errors are encountered it interrupts the process. The byte code file then gets run by python virtual machine.
+<detials>In order to use python's interpreter you must have python downloaded. Mac OS X comes with python pre installed, if you are windows however you need to install python from https://www.python.org/downloads/
+
+### Lesson 2
+
+In lesson 2 you will use your new knowledge to type and create your own program that prints to the console.
