@@ -27,6 +27,3 @@ The rules and code that you create when using any programming language is called
 ### Text Editor
 
 In order to write code you will need a text editor.
-
-![Image of Atom][atom]
-[atom]: (https://discourse-cdn-sjc1.com/business6/uploads/github_atom/490/d8548f4ce56f1599.png)
