@@ -32,7 +32,7 @@ One way to "write commands" or program is to create a file with the instructions
 
 After getting your text file with all your syntax saved on it, you now need to convert it from English into a language that computers can understand. In order to convert it into machine code (the language computers use) you use the Python Interpreter.
 <details><summary>How does python interpreter work? (Extra details, optional to know)</summary>The python interpreter takes your program file and compiles (think of converting) it into bytecode by seperating all of your syntax into their individual instructions and saving them as a list of tokens. These tokens are stored within a bytecode file (.pyc), and if any errors are encountered it interrupts the process. The byte code file then gets run by python virtual machine.
-</detials>
+</details>
 In order to use python's interpreter you must have python downloaded. Mac OS X comes with python pre installed, if you are windows however you need to install python from https://www.python.org/downloads/
 
 ### Lesson 2
