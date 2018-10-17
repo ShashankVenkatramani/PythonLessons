@@ -39,5 +39,5 @@ In order to use python's interpreter you must have python downloaded. Mac OS X c
 
 ### Lesson 2
 
-In lesson 2 you will use your new knowledge to type and create your own program that prints to the console.
-[Lol link](Lesson2.md)
+In lesson 2 you will use your new knowledge to type and create your own program that prints to the console. <br> <br>
+[Next Lesson](Lesson2.md)
