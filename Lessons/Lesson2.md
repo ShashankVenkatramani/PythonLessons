@@ -15,15 +15,15 @@ Next go ahead and save your file, by using the top bar and going file > save as 
 #### Check Python
 Open terminal from spotlight search by clicking the magnifying glass on the top right, searching for terminal, and hitting enter.
 
-![SpotLight Search](/Images/spotlightsearch.png)
+![SpotLight Search](/Lessons/Images/spotlightsearch.png)
 
 Once you open up terminal, you will see a basic window, in which you can directly send commands and interface with your computer.
 
-![terminal](/Images/terminal.png)
+![terminal](/Lessons/Images/terminal.png)
 
 In order to test that you have python installed, we can run the --version command with python. In order to do so you must use the command for Python which is conveniently "python" and the --version command after to check the version. Putting them together you get "python --version"
 
-![python version](/Images/pyversion.png)
+![python version](/Lessons/Images/pyversion.png)
 
 After pressing enter and sending the computer the command it will return "Python 2.x.x" or "Python 3.x.x". If you do not see either of these, then go to python.org/download, download a python version, and redo this section.
 #### Running your program
