@@ -34,7 +34,7 @@ After getting your text file with all your syntax saved on it, you now need to c
 
 <details><summary>How does python interpreter work? (Extra details, optional to know)</summary>The python interpreter takes your program file and compiles (think of converting) it into bytecode by separating all of your syntax into their individual instructions and saving them as a list of tokens. These tokens are stored within a bytecode file (.pyc), and if any errors are encountered it interrupts the process. The byte code file then gets run by python virtual machine.
 </details>
-
+<br>
 In order to use python's interpreter you must have python downloaded. Mac OS X comes with python pre installed, if you are windows however you need to install python from https://www.python.org/downloads/
 
 ### Lesson 2
